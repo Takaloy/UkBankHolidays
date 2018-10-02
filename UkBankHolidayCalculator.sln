@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UkBankHolidayCalculator", "UkBankHolidayCalculator\UkBankHolidayCalculator.csproj", "{B4752906-354A-4006-89DD-FA7A3507B426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UkBankHolidayCalculator.Tests", "UkBankHolidayCalculator.Tests\UkBankHolidayCalculator.Tests.csproj", "{6F5CA810-2263-4AA9-B1FC-D8D33AB77FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4752906-354A-4006-89DD-FA7A3507B426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4752906-354A-4006-89DD-FA7A3507B426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4752906-354A-4006-89DD-FA7A3507B426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4752906-354A-4006-89DD-FA7A3507B426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F5CA810-2263-4AA9-B1FC-D8D33AB77FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5CA810-2263-4AA9-B1FC-D8D33AB77FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5CA810-2263-4AA9-B1FC-D8D33AB77FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5CA810-2263-4AA9-B1FC-D8D33AB77FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93A53986-96D2-4529-A044-1934A6CF2CDA}
+	EndGlobalSection
+EndGlobal
